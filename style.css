@@ -1,0 +1,19 @@
+.crf{
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    background-color: cyan;
+    text-shadow: 5px 5px 5px grey;
+    line-height: 2;
+    color: black;
+}
+.body1{
+background-image: url("image.avif");
+background-size: cover;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgba(0, 255, 221, 0.832);
+}
